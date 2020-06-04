@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="#rocket-tecnologias-e-recursos">Tecnologias e Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-atualizações">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -72,10 +72,10 @@ Este projeto está sob a licença do MIT. Veja a [LICENÇA](https://github.com/j
 
 Feito com ♥ por Jean Vidal :wave: [Entre em contato!](https://www.linkedin.com/in/jvidalnunes/)
 
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[es]: https://www.ecma-international.org/
+[vc]: (https://code.visualstudio.com/)
+[vceditconfig]: (https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+[vceslint]: (https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+[es]: (https://www.ecma-international.org/)
 [rct]: (https://pt-br.reactjs.org/)
 [rctn]: (https://reactnative.dev/)
 [ts]: (https://www.typescriptlang.org/)
