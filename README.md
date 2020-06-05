@@ -31,14 +31,19 @@
 
 ## :rocket: Tecnologias e Recursos
 
-- [React][rct]
-- [React Native][rctn]
-- [TypeScript][ts]
-- [Node.js][njs]
-- [Knex.js][kjs]
-- [SQLite][sql]
-- [ECMAScript][es]
-- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [React][rct] - `Biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.`
+- [React Native][rctn] - `Biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android e IOS de forma nativa.`
+- [TypeScript][ts] - `Superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem.`
+- [Node.js][njs] - `Um ambiente de execução Javascript server-side.`
+- [Knex.js][kjs] - `Construtor de consultas SQL utilizando JavaScript - semelhante ao uso de LINQ em C# - com suporte para Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle e Amazon Redshift, criado para ser flexível, portátil e divertido de usar.`
+- [SQLite][sql] - `Biblioteca em linguagem C que implementa um banco de dados SQL embutido.`
+- [ECMAScript][es] - `Especificação de linguagem de programação baseada em scripts que o JavaScript implementa, padronizada pela Ecma International. Trás uma sintaxe mais flexível, enxuta e fácil de se aprender e trabalhar.`
+- [Leaflet][lf] - `Biblioteca JavaScript de código aberto amplamente usada para criar aplicativos de mapeamento da web.`
+- [React Leaflet][rlf] - `Abstração do Leaflet como componentes React.`
+- [IBGE API v1.0][rlf] - `Documentações e APIs fornecidas pelo Instituto Brasileiro de Geografia e Estatistica - IBGE, principal provedor de informações geográficas e estatísticas do Brasil.`
+- [React Icons][ric] - `Permite o uso de ícones populares utilizando importações do ES6 que permitem incluir apenas os ícones que o seu projeto está usando.`
+- [Axios][axios] - `Cliente HTTP que funciona tanto no browser quanto em node.js`
+- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint] - `O VS Code é um editor Open Source da Microsoft. O EditorConfig ajuda a manter estilos de codificação consistentes para vários desenvolvedores que trabalham no mesmo projeto em vários editores e IDEs e o ESLint ajuda na análise de código estática para identificar padrões problemáticos encontrados no código JavaScript.`
 
 ## :information_source: Sobre
 
@@ -82,3 +87,8 @@ Feito com ♥ por Jean Vidal :wave: [Entre em contato!](https://www.linkedin.com
 [njs]: https://nodejs.org
 [kjs]: http://knexjs.org
 [sql]: https://www.sqlite.org/index.html
+[lf]: https://leafletjs.com/
+[rlf]: https://react-leaflet.js.org
+[ibge]: https://servicodados.ibge.gov.br/api/docs
+[ric]: https://react-icons.github.io/react-icons/
+[axios]: https://github.com/axios/axios
